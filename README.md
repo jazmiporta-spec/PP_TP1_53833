@@ -8,9 +8,9 @@ Conceptos de POO Aplicados:
 - Herencia y clases abstractas: la clase base `Actividad` define comportamientos genéricos compartidos por las subclases `Charla` y `Taller`.
 - Polimorfismo: tratamiento unificado de diferentes tipos de actividades al calcular costos y mostrar identificaciones dinámicamente.
 - Relaciones entre objetos:
-  - Asociación / Inscripción: entre `Actividad`, `Inscripcion` y `Estudiante`[cite: 1].
-  - Agregación: la clase `Sala` existe de forma independiente a `EventoUniversitario`[cite: 1].
-  - Composición: las actividades forman parte de la vida útil del `EventoUniversitario`[cite: 1].
+  - Asociación / Inscripción: entre `Actividad`, `Inscripcion` y `Estudiante`.
+  - Agregación: la clase `Sala` existe de forma independiente a `EventoUniversitario`.
+  - Composición: las actividades forman parte de la vida útil del `EventoUniversitario`.
  
 IMAGENES
 - Salida de consola:
